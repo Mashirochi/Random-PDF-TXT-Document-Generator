@@ -219,4 +219,4 @@ Check that:
 
 ## License
 
-This project is provided for educational, testing, and development purposes. Add your preferred license before publishing it publicly.
+This project is MIT licensed.

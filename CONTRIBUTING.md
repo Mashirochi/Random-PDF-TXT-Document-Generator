@@ -56,7 +56,7 @@ cd <repository-name>
 python -m venv .venv
 ```
 
-4. Activate the virtual environment:
+4. Activate the virtual environment venv:
 
 On macOS/Linux:
 
